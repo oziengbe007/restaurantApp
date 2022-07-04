@@ -1,0 +1,9 @@
+.nav-link{
+    font-weight: bold;
+}
+
+#navbarNavAltMarkup{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
